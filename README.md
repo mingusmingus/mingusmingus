@@ -1,7 +1,6 @@
 ## Acerca de mí:
 
 - Entusiasta de todo, maestro en.
-- Amante la música.
 - Jazz encebollado.
 - Consumidor de café.
 - Fideos desnudos.
