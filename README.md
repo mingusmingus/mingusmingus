@@ -6,4 +6,5 @@
 - Consumidor de café.
 - Fideos desnudos.
 - Nadie entiende a Hegel.
-![tumblr_ovltbhJ1wT1wtz3cfo1_1280](https://github.com/user-attachments/assets/507f693d-3f47-47b7-972c-5f351f7128f2)
+
+![mao](https://github.com/user-attachments/assets/1e6492d5-8afc-4ae4-8cce-6701525aad82)
