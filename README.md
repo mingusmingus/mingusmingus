@@ -1,10 +1,7 @@
-## [*] Acerca de mí
+## Acerca de mí:
 
-  +-----------------------------------+
-  |                                   |
-  |  - [*] Entusiasta de todo         |
-  |  - [*] Amo la música              |
-  |  - [*] Fideos desnudos            |
-  |  - [*] Consumidor de café         |
-  |                                   |
-  +-----------------------------------+
+- Entusiasta de todo, maestro en.
+- Amo la música.
+- Jazz encebollado.
+- Consumidor de café.
+- Fideos desnudos.
